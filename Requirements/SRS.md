@@ -16,4 +16,4 @@
 <h2> Интерфейс пользователя:
 
 При запуске игроку выводится информация событиях, которые привели к ситуации в игре, и дается выбор: начать новую игру, загрузить сохранение или выйти из игры.
-<img src="https://github.com/octolera/ToDoGotchi/blob/origin/UI/Welcome.jpg" height=400 width=200>
+<img src="https://github.com/tanktema/KingOfToads/tree/main/Interace/MainMenu.png" height=400 width=200>
