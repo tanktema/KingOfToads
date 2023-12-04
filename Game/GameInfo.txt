@@ -1,0 +1,13 @@
+IFID: 9f4fee23-6b5b-47cb-93e6-496e9d804e9d
+Name: King of Toard
+Byline: by Tanktema & Starpiece
+HtmlByline: by <a href="mailto:your-email@host.com"> Tanktema & Starpiece</a>
+AuthorEmail: Tanktema & Starpiece <your-email@host.com>
+Desc: Put a brief "blurb" about your game here
+HtmlDesc: Put a brief "blurb" about your game here
+Version: 1
+ReleaseDate: 2023-11-27
+Language: en-US
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default

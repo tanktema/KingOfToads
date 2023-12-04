@@ -1,0 +1,9 @@
+<eventscript>
+<line>
+<line>north
+<line>south
+<line>out
+<line>out
+<line>north
+<line>north
+<eof>

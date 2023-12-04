@@ -1,0 +1,33 @@
+<!--Saved by Quest 5.8.6836.13983-->
+<asl version="580">
+  <include ref="Russian.aslx" />
+  <include ref="Core.aslx" />
+  <game name="Король Лягушек">
+    <gameid>a699b5ad-6429-4d94-bcae-b0352e871b6b</gameid>
+    <version>1.0</version>
+    <firstpublished>TBD</firstpublished>
+    <feature_limitinventory />
+    <author>150502</author>
+    <category>Fantasy</category>
+  </game>
+  <object name="Меню">
+    <inherit name="editor_room" />
+    <descprefix>Главное меню</descprefix>
+    <objectslistprefix type="string"></objectslistprefix>
+    <isroom />
+    <exit alias="в" to="Start">
+      <inherit name="indirection" />
+      <scenery />
+    </exit>
+  </object>
+  <object name="Start">
+    <inherit name="editor_room" />
+    <descprefix>Ты находишься в спальне</descprefix>
+    <objectslistprefix>Вокруг тебя находятся:твои родственники</objectslistprefix>
+    <description><![CDATA[На кровати в углу комнаты - твой отец. Двадцать лет назад он был королем, сейчас же он лишь блеклый облик той сильной лягушки, которой был. Старость взяла своё, но прежде, чем он умирает, он подзывает тебя к себе:<br/><br/>- Сын мой, подойди ко мне ближе. Я должен сказать тебе нечто крайне важное...<br/><br/>]]></description>
+    <alias>Начать игру</alias>
+    <exit alias="юг" to="Меню">
+      <inherit name="southdirection" />
+    </exit>
+  </object>
+</asl>

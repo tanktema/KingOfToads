@@ -1,0 +1,13 @@
+IFID: 7e86ae51-58a0-4c16-8f0d-d8d724e37218
+Name: KOT
+Byline: by Your Name
+HtmlByline: by <a href="mailto:your-email@host.com"> Your Name</a>
+AuthorEmail: Your Name <your-email@host.com>
+Desc: Put a brief "blurb" about your game here
+HtmlDesc: Put a brief "blurb" about your game here
+Version: 1
+ReleaseDate: 2023-11-27
+Language: en-US
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default
